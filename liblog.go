@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/buger/goterm"
-	"github.com/aztecrabbit/libutils"
+	"github.com/Anggabaonks/libutils"
 )
 
 var (
